@@ -1,5 +1,12 @@
 # @pandacss/preset-base
 
+## 0.5.2
+
+### Patch Changes
+
+- 97fbe63f: Add negative fraction values to `translateX` and `translateY` utilities
+  - @pandacss/types@0.5.2
+
 ## 0.5.1
 
 ### Patch Changes
